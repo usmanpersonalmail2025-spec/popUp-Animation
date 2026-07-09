@@ -12,7 +12,7 @@ A modern popup animation built entirely with **HTML5** and **CSS3**. This projec
 
 #after animations
 
-![Project Preview](images/screenshot2.png)
+![Project Preview](images/screenshot3.png)
 
 ---
 
