@@ -2,9 +2,15 @@
 
 A modern popup animation built entirely with **HTML5** and **CSS3**. This project demonstrates how powerful CSS animations can be by creating a smooth dropping and swinging popup effect without using a single line of JavaScript.
 
-## 📸 Preview
+## 🌐 Live Demo
 
-> Add a screenshot or GIF of your project here.
+Once deployed with GitHub Pages, add your live project link here:
+
+DEMO: https://usmanpersonalmail2025-spec.github.io/popUp-Animation/
+
+---
+
+## 📸 Preview
 
 #before animation
 
@@ -116,16 +122,6 @@ This project helped me improve my understanding of:
 - CSS Timing Functions (`ease`)
 - Animation Delays
 - Building UI animations without JavaScript
-
----
-
-## 🌐 Live Demo
-
-Once deployed with GitHub Pages, add your live project link here:
-
-```text
-https://usmanpersonalmail2025-spec.github.io/popUp-Animation/
-```
 
 ---
 
